@@ -1,3 +1,5 @@
+The HOPR code now lives as its own GitHub organization on http://github.com/hoprnet
+---
 <!-- <font face="courier new" size="20" color="black">HOPR</font><font face="courier new" size="11" color="black">.network</font> -->
 
 # HOPR
